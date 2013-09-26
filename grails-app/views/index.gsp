@@ -103,19 +103,16 @@
 			</ul>
 		</div>
 		<div id="page-body" role="main">
-			<h1>Welcome to Grails</h1>
+			<h1>Welcome to App42 PaaS</h1><br/>
 			<p>Congratulations, you have successfully started your first Grails application! At the moment
 			   this is the default page, feel free to modify it to either redirect to a controller or display whatever
 			   content you may choose. Below is a list of controllers that are currently deployed in this application,
-			   click on each to execute its default action:</p>
+			   click on each to execute its default action:</p><br/>
 
 			<div id="controller-list" role="navigation">
-				<h2>Available Controllers:</h2>
-				<ul>
-					<g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName } }">
-						<li class="controller"><g:link controller="${c.logicalPropertyName}">${c.fullName}</g:link></li>
-					</g:each>
-				</ul>
+				<h1>App42 PaaS Help</h1><br/>
+                                <p><fieldset class="buttons"><g:link url="http://app42paas.shephertz.com/dev-center/getting-started" target="_blank" alt="Get Started">Get Started</g:link><g:link url="http://apphq.app42paas.com" target="_blank" alt="AppHQ Console">AppHQ Console</g:link></fieldset></p>
+                                
 			</div>
 		</div>
 	</body>
