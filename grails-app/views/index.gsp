@@ -111,7 +111,7 @@
 
 			<div id="controller-list" role="navigation">
 				<h1>App42 PaaS Help</h1><br/>
-                                <p><fieldset class="buttons"><g:link url="http://app42paas.shephertz.com/dev-center/getting-started" target="_blank" alt="Get Started">Get Started</g:link><g:link url="http://apphq.app42paas.com" target="_blank" alt="AppHQ Console">AppHQ Console</g:link></fieldset></p>
+                                <p><fieldset class="buttons"><g:link url="http://app42paas.shephertz.com/dev-center/getting-started" target="_blank" alt="Get Started">Get Started</g:link><g:link url="https://paashq.shephertz.com" target="_blank" alt="AppHQ Console">AppHQ Console</g:link></fieldset></p>
                                 
 			</div>
 		</div>
